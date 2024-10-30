@@ -1,16 +1,14 @@
-## Hi there 👋
+## oi. 🤙
+meu nome é gabriel.
+- artista;
+- nas horas vagas, (péssimo) guitarrista;
+- estudante de desenho e arte;
+- rock, fanta laranja e strogonoff;
+- uso o [ALURA](www.alura.com.br) (dependente do fórum);
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-<!--
-**gab-riel1/gab-riel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+contato:
+- [instagram (pessoal)](https://www.instagram.com/biel.kkjk/)
+- é só esse mesmo.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](https://media1.tenor.com/m/_fYybQp__qgAAAAC/tenma-kenzo-tenma.gif) 
